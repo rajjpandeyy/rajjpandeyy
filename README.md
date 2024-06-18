@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rajjpandeyy
-- 👀 I’m interested in web development and programming 
-- 🌱 I’m currently learning frameworks of javascript and advanced css
-- 📫 How to reach me ?? Linkedin
-- 😄 Pronouns: He
+- <h1>Hi👋, I’m @rajjpandeyy</h1>
+- <h2>A learning programmer and developer pursuing Electronics and Communication Engineering from IIITDM Jabalpur</h2>
+- 📫 How to reach me ?? pandeyraj969@gmail.com
+  
 - ⚡ Fun fact: humor and algorithms
 
 <!---
