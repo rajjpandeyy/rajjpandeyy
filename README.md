@@ -2,14 +2,7 @@
 <h2 align="center">A learning programmer and developer pursuing Electronics and Communication Engineering from IIITDM Jabalpur</h2>
 <p align="center">⚡ humor and algorithms</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajjpandeyy&label=Profile%20views&color=0e75b6&style=flat" alt="rajjpandeyy" />
-</p>
 
-<!-- GitHub Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajjpandeyy&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
 
 ---
 
@@ -45,7 +38,7 @@ Welcome to my GitHub! I build AI apps, scalable web platforms, and robust data t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
