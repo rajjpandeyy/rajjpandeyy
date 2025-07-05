@@ -20,9 +20,6 @@ Welcome to my GitHub! I build AI apps, scalable web platforms, and robust data t
   AI-powered data correction and branding toolkit.  
   [Live Demo](https://data-alchemist-rajjpandeyys-projects.vercel.app/) | [Troubleshooting](https://github.com/rajjpandeyy/Data-Alchemist#troubleshooting)
 
-- **[Portfolio Website](https://github.com/rajjpandeyy/Portfolio):**  
-  My personal portfolio built with React and Tailwind CSS.  
-  [Live Demo](https://rajjpandeyy-portfolio.vercel.app/)
 
 ---
 
