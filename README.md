@@ -52,12 +52,6 @@ Welcome to my GitHub! I build AI apps, scalable web platforms, and robust data t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajjpandeyy&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjpandeyy&layout=compact&theme=radical" alt="top langs" />
-</p>
 
 ---
 
